@@ -5,7 +5,7 @@
 ## Alias
 
 * `ts`- `tmux new-session -s` = Cria uma nova seção nomeada;
-* `ts`- `tmux attach -t` = Vincula a janela a uma seção nomeada existente;
+* `ta`- `tmux attach -t` = Vincula a janela a uma seção nomeada existente;
 * `tl`- `tmux list-sessions` = Lista as seções existentes;
 * `tksv` - `tmux kill-server` = Mata todas as seções;
 * `tkss` - `tmux kill-session -t` = Mata uma seção nomeada especiíca;
